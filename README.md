@@ -60,4 +60,4 @@ O aplicativo funciona como um mensageiro inovador que combina recursos de chat c
  </div>
  
 <h2>Autor</h2>
-Este aplicativo foi desenvolvido por Vitor Gabriel com base em um projeto da final no React Native.
+Este aplicativo foi desenvolvido por Vitor Gabriel.
